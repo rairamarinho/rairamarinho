@@ -1,4 +1,4 @@
-<h1 align="left">Olá, Eu sou a Raíra! 💛 </h1>
+<h1 align="left">Olá, eu sou a Raíra! 💛 </h1>
 
 ###
 
