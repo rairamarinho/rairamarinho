@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧪 Formada em Engenharia Civil na Uniesp<br>🎓 Pós-Graduanda em Engenharia de Qualidade e Testes de Software na Puc Minas<br>📚 Estudando fundamentos de QA, testes manuais e automação com ferramentas como Selenium e Postman<br>🔍 Apaixonada por garantir a qualidade e a confiabilidade de sistemas desde as primeiras etapas do desenvolvimento</p>
+<p align="left">🧪 Formada em Engenharia Civil e Pós-Graduada em Desenvolvimento em Backend Jr na Uniesp<br>🎓 Pós-Graduanda em Engenharia de Qualidade e Testes de Software na Puc Minas<br>📚 Estudando fundamentos de QA, testes manuais e automação com ferramentas como Selenium e Postman<br>🔍 Apaixonada por garantir a qualidade e a confiabilidade de sistemas desde as primeiras etapas do desenvolvimento</p>
 
 ###
 
