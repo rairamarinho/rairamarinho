@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Analista de Qualidade e Testes de Software em formação, dedicada a garantir qualidade, eficiência e confiabilidade em cada etapa do desenvolvimento de software. Tenho focado meus estudos em testes manuais e automação, com o objetivo de transformar cada aprendizado em práticas que contribuam para produtos mais estáveis e bem estruturados.</p>
+<p align="left">Apaixonada por dados e tecnologia, estou iniciando minha jornada na área de Engenharia de Dados. Atualmente curso pós-graduação em Engenharia de Dados pela PUC Minas, buscando transformar informações em insights valiosos e contribuir para decisões mais inteligentes e estratégicas. 🚀</p>
 
 ###
 
@@ -10,19 +10,39 @@
 
 ###
 
-<p align="left">🧪 Formada em Engenharia Civil e Pós-Graduada em Desenvolvimento em Backend Jr na Uniesp<br>🎓 Pós-Graduanda em Engenharia de Qualidade e Testes de Software na Puc Minas<br>📚 Estudando fundamentos de QA, testes manuais e automação com ferramentas como Selenium e Postman<br>🔍 Apaixonada por garantir a qualidade e a confiabilidade de sistemas desde as primeiras etapas do desenvolvimento</p>
+<p align="left"> 🎓 Pós-graduanda em <strong>Engenharia de Dados</strong> pela <strong>PUC Minas</strong><br> 🧮 Graduação em Engenharia Civil, trazendo uma visão analítica e estruturada para o mundo dos dados<br> 📚 Estudando <strong>Python, SQL, modelagem de dados, pipelines, Big Data</strong> e <strong>ferramentas de nuvem</strong><br> 🔍 Interessada em entender todo o ciclo de vida dos dados — da coleta ao armazenamento e visualização<br> 💡 Em constante aprendizado para dominar ferramentas e práticas modernas de engenharia e ciência de dados </p>
 
 ###
 
+## 📊 Áreas de Interesse
+
+Engenharia e arquitetura de dados
+
+ETL/ELT e automação de pipelines
+
+Modelagem e governança de dados
+
+Análise exploratória e visualização de dados
+
+Big Data e computação em nuvem
+
+###
+
+## 🌱 Atualmente aprendendo
+
+📘 SQL, Python para dados, Spark, Airflow e Power BI
+
+###
+
+## ✨ Curiosidade sobre mim
+
+Sou movida pela curiosidade e adoro transformar desafios em oportunidades de aprendizado. Acredito que dados contam histórias incríveis — e quero aprender a contá-las da melhor forma possível. 💛
+
 ## 🧪 Tecnologias e Linguagens  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 
----
+###
 
-## 🚀 Frameworks e Bibliotecas de Testes  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>  <img src="https://testing-library.com/img/octopus-64x64.png" width="40" alt="Testing Library"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+## 🚀 Ferramentas e Tecnologias de Dados 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="40" alt="Apache Airflow"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" alt="Apache Spark"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
 
----
-
-## 🛠️ Ferramentas de Desenvolvimento  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40" alt="Postman"/>
